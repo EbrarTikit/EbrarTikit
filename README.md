@@ -12,9 +12,14 @@ Hilt for Dependency Injection, LiveData, and Flows in both my professional work 
 - 🔭 I’m currently working on Kotlin, Android Development. 
 - 📫 How to reach me: [![Email]](mailto:tikitebrar@gmail.com)
 
-# My Social Media Links:
+# Connect With Me:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/ebrartikit/)  [![GitHub](https://img.shields.io/badge/GitHub-Profile-black)](https://medium.com/@tikitebrar)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/ebrartikit/)  [![Medium](https://img.shields.io/badge/Medium-Profile-black)](https://medium.com/@tikitebrar)
+
+# Languages I used: 
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=EbrarTikit&layout=compact&theme=dark)
+
 
 
 
