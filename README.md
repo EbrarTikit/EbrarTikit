@@ -11,12 +11,9 @@ Here are some ideas to get you started: -->
 continuously learning through research and hands-on projects. I've worked with multi-module project structures, MVVM architecture, 
 Hilt for Dependency Injection, LiveData, and Flows in both my professional work and personal projects. 
 
-- 🔭 I’m currently working on Kotlin, Android Development. 
-- 📫 How to reach me: [![Email]](mailto:tikitebrar@gmail.com)
-
 # Connect With Me:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/ebrartikit/)  [![Medium](https://img.shields.io/badge/Medium-Profile-black)](https://medium.com/@tikitebrar)
+[![Gmail](https://img.shields.io/badge/Gmail-Profile-red)](mailto:tikitebrar@gmail.com)  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/ebrartikit/)  [![Medium](https://img.shields.io/badge/Medium-Profile-black)](https://medium.com/@tikitebrar)
 
 # Languages that I used: 
 
