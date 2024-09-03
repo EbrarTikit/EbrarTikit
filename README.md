@@ -11,11 +11,11 @@ Here are some ideas to get you started: -->
 continuously learning through research and hands-on projects. I've worked with multi-module project structures, MVVM architecture, 
 Hilt for Dependency Injection, LiveData, and Flows in both my professional work and personal projects. 
 
-# Languages that I used: 
+# 💻 Languages that I used: 
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=EbrarTikit&layout=compact&theme=dark)
 
-# Connect With Me:
+# 🔗 Connect With Me:
 
 [![Gmail](https://img.shields.io/badge/Gmail-Profile-red)](mailto:tikitebrar@gmail.com)  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/ebrartikit/)  [![Medium](https://img.shields.io/badge/Medium-Profile-black)](https://medium.com/@tikitebrar)
 
